@@ -19,10 +19,10 @@ Este repositório reúne a documentação e os resultados do estudo sobre **Mús
 
 Foram selecionadas e analisadas as seguintes fontes abertas para alimentar a base do projeto:
 
-* **[PDF/Slide]** [FGV - Arte 9º Ano (Aula 3)](https://conhecimento.fgv.br/sites/default/files/concursos/arte-9o-ano-aula-3.pdf) — Material didático sobre manifestações artísticas e cultura.
-* **[PDF/Artigo]** [Revista Criação & Crítica - USP](https://revistas.usp.br/criacaoecritica/article/download/83640/91601/126086) — Análise crítica sobre música, literatura e contextos de exceção.
+* **[PDF/Slide]** [Música e Contracultura - Arte 9º Ano](https://conhecimento.fgv.br/sites/default/files/concursos/arte-9o-ano-aula-3.pdf) — Material didático sobre manifestações artísticas e cultura.
+* **[PDF/Artigo]** [CULTURA E CONTRACULTURA: FERLINGHETTI](https://revistas.usp.br/criacaoecritica/article/download/83640/91601/126086) — Análise crítica sobre cultura e contracultura.
 * **[Artigo Web]** [National Geographic Brasil - A Guerra do Vietnã](https://www.nationalgeographicbrasil.com/historia/2023/09/o-que-foi-a-guerra-do-vietna-e-quais-as-suas-causas) — Contexto histórico internacional dos conflitos e movimentos pacifistas.
-* **[Vídeo/Aula]** [Música e Contracultura - YouTube](https://www.youtube.com/watch?v=-MGOGT5sKV4) — Referência audiovisual sobre o tema.
+* **[Vídeo/Aula]** [PSS SEDUC-SP 2027: Tudo o que você precisa saber sobre a VIDEOAULA!](https://www.youtube.com/watch?v=-MGOGT5sKV4) — Referência audiovisual sobre o o formato da videoaula.
 
 ---
 
