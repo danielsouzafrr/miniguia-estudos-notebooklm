@@ -1,6 +1,6 @@
 # 🎵 Miniguia de Estudos: Música e Contracultura
 
-> **Projeto desenvolvido para a DIO** utilizando **NotebookLM** e **Gemini** para curadoria, síntese e roteirização pedagógica.
+> **Projeto desenvolvido para a DIO** utilizando **Gemini Notebook** para curadoria, síntese e roteirização pedagógica.
 
 ---
 
